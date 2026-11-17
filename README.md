@@ -8,7 +8,7 @@ Ejercicio de Windows para experimentar con un puerto paralelo. Permite ver cómo
 
 ### Esta revisión
 
-**2004-03-26 · Leer y escribir valores del puerto paralelo.** Incluye la vista y los controles para consultar entradas, enviar valores de salida y fijar el intervalo de actualización. Permite seguir cómo una selección de la interfaz se convierte en una operación sobre el puerto.
+**2026-11-17 · Documentar el entorno del ejercicio de puerto paralelo.** Aclara que la solución conserva referencias de Visual C++ de su época y puede necesitar recursos gráficos de prueba. El lector puede identificar los requisitos del entorno antes de estudiar el acceso al puerto.
 
 ### Cómo explorar el código
 
@@ -23,7 +23,7 @@ A Windows exercise for experimenting with a parallel port. It shows how input an
 
 ### This revision
 
-**2004-03-26 · Read and write parallel-port values.** Include the view and controls for reading inputs, writing outputs, and setting the update interval. Show how a choice in the interface becomes a port operation.
+**2026-11-17 · Document the parallel-port exercise environment.** Clarify that the solution retains historical Visual C++ references and may require sample graphics. Readers can identify the environment requirements before studying port access.
 
 ### How to explore the source
 
